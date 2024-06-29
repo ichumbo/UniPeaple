@@ -1,11 +1,11 @@
 <div align="center">
   <br />
 
-  <h2 align="center">UniPeople - Digital Agency Website</h2>
+  <h2 align="center">UniPeople - Site da agência digital</h2>
 
-  UniPeople is a fully responsive digital agency website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
-
-  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Live Demo</strong></a>
+  UniPeople é um site de agência digital totalmente responsivo,
+Responsivo para todos os dispositivos, construído usando HTML, CSS e JavaScript.
+  <a href="https://codewithsadee.github.io/pixology/"><strong>➥ Demonstração</strong></a>
 
 </div>
 
@@ -15,6 +15,3 @@
 
 ![UniPeople Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### License
-
-This project is **free to use** and does not contains any license.
